@@ -210,11 +210,11 @@ flex-wrap:wrap;
     display:flex ;
     float:none;
     width: 100%;
-    background-image: url("../img/faith.jpg");
     height: 50%;
     flex-wrap:wrap;
     padding: 5px;
     align-items:center;
+    background-color: midnightblue;
     background-position:center;
     background-size: cover;
     
