@@ -110,7 +110,7 @@ a {
 
 #showcase{
     height: 700px;
-    background-image: url(../img/showcase.jpg);
+    background-image: url("./showcase.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -147,7 +147,7 @@ a {
 .home-info-img {
     float: left;
     width: 50%;
-    background-image: url(./img/Pls.jpg);
+    background-image: url("./img/faith.jpg");
     height: 100%;
 }
 .home-info-content {
@@ -210,7 +210,7 @@ flex-wrap:wrap;
     display:flex ;
     float:none;
     width: 100%;
-    background-image: url(../img/Pls.jpg);
+    background-image: url("./img/faith.jpg");
     height: 50%;
     flex-wrap:wrap;
     padding: 5px;
@@ -253,6 +253,10 @@ flex-wrap:wrap;
     height: 50%;
     text-align: center;
     overflow: hidden;
+    background-image:url("./img/mine.jpg");
+    background-position:center;
+    background-attachment:fixed ;
+    background-size:cover;
 }
 
 .home-info-content h2 {
@@ -265,7 +269,7 @@ flex-wrap:wrap;
     line-height: 1.3em;
     padding-bottom: 20px;
 }
-/* Home Info End */
+/* Hom e Info End */
 
 /* Features start */
 
